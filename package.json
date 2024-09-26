@@ -1,0 +1,16 @@
+{
+  "name": "exercise-1-xml-formatter",
+  "version": "1.0.0",
+  "description": "Node.js program that accepts an XML file and formats into JSON with some additional modifications to the data",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Cameron Boyce",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
